@@ -63,10 +63,8 @@ Dataset Link [Here](https://www.kaggle.com/datasets/joebeachcapital/ransomware-a
 ### Top ransomware groups
 ![image](https://github.com/user-attachments/assets/7a929c55-389b-4c3c-af4b-12894515b3b9)
 
+### Geographical Distribution of Attacks
+![image](https://github.com/user-attachments/assets/geo_distribution.png)
 
-
-
-
-
-
-
+### Heatmap of Attack Intensity
+![image](https://github.com/user-attachments/assets/attack_intensity_heatmap.png)
